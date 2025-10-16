@@ -1,0 +1,14 @@
+SWE485 Phase 1 — Group 2 — Step-by-Step
+---------------------------------------
+1) Create GitHub repo: SW485-Project-Group2
+2) Ensure folders exist: /Dataset, /Supervised_Learning, /Unsupervised_Learning, /Generative_AI
+3) Download Kaggle CSV(s): student-mat.csv and/or student-por.csv (or a unified student_performance.csv)
+4) Put them in /Dataset
+5) Upload these files to repo root:
+   - README.md
+   - Phase1_Data_Exploration.ipynb
+   - PHASE1_CHECKLIST.txt
+6) Open the notebook and run cells top→bottom
+7) Update README with team names, IDs, motivation, dataset URL
+8) Commit & push; submit the GitHub link on LMS
+9) Record instructor approval
