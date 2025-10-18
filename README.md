@@ -3,7 +3,6 @@
 ## Group Members
 - Abdulaziz Mohammed Alduraibi (ID: 444102549)  
 - Sultan Saeed Alqahtani (ID: 444100168)  
-- Yazeed Saeed Alqarni (ID: 444101099)
 
 ## Project Title and Motivation
 **Project Title:** Student Performance Predictor  
