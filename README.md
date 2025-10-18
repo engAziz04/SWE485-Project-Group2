@@ -12,7 +12,7 @@ This project aims to predict students’ academic performance (pass/fail or fina
 By identifying patterns related to student success, the system can help students improve their study habits and overall performance.
 
 ## Dataset Source
-The dataset is based on **“Student Alcohol Consumption”** from Kaggle, which contains academic and social information about students in Portugal.  
-In this project, we use the educational attributes (study time, absences, grades, etc.) to analyze and predict student performance.  
+This project uses the **Students Performance in Exams** dataset (1,000 rows, 8 columns).  
+We focus on predicting a derived pass/fail label from exam scores and simple demographics.
 
-🔗 [Kaggle – Student Alcohol Consumption Dataset](https://www.kaggle.com/datasets/uciml/student-alcohol-consumption)
+🔗 https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
